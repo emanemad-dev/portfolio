@@ -8,8 +8,7 @@ This project showcases a **custom portfolio**, **testimonials carousel**, **dark
 ## 🌐 Live Demo
 
 Check out the live demo here:  
-
-[Click here to see the Portfolio live]((https://sweet-souffle-341a26.netlify.app/))  
+(https://sweet-souffle-341a26.netlify.app/)
 
 ---
 
